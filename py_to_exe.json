@@ -1,0 +1,93 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "C:/videoTranslater_v1_0_portable/part1.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": false
+  },
+  {
+   "optionDest": "console",
+   "value": true
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "C:/Users/Alex Mi/Pictures/Saved Pictures/kesha.ico"
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/videoTranslater_v1_0_portable/whisper3;whisper3/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/videoTranslater_v1_0_portable/tts_model_1.pt;tts_model_1.pt/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/videoTranslater_v1_0_portable/tts_models;tts_models/"
+  },
+  {
+   "optionDest": "collect_all",
+   "value": "whisper"
+  },
+  {
+   "optionDest": "collect_all",
+   "value": "torch"
+  },
+  {
+   "optionDest": "collect_all",
+   "value": "silero"
+  },
+  {
+   "optionDest": "collect_all",
+   "value": "pydub"
+  },
+  {
+   "optionDest": "collect_all",
+   "value": ""
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
